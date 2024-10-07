@@ -55,7 +55,11 @@ Access the application at http://localhost:8080.
 
 Sign in or create a new account to manage your contacts.
 
-## UI Screen Shots
+
+## Project images
+
+> **Note:**There are still multiple pages that have not been added here.
+
 - **User based LogIn Page**
 
 ![Screenshot 2024-10-07 233842](https://github.com/user-attachments/assets/7173625e-e7ea-4299-ba16-0d57a90f7f27)
